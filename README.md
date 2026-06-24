@@ -15,7 +15,6 @@ An interactive Excel dashboard created to analyze coffee sales performance using
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Pivot Charts<img width="1147" height="665" alt="Screenshot 2026-06-24 151633" src="https://github.com/user-attachments/assets/1a1d1695-4a05-4a89-8754-341a1fb620c2" />
 
 - Slicers
 - Dashboard Design
